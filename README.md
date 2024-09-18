@@ -4,6 +4,10 @@
 
 RTSS 热键帧率限制器是一个基于 [rtss-cli](https://github.com/xanderfrangos/rtss-cli) 的工具，旨在通过监听快捷键来动态修改 RTSS (RivaTuner Statistics Server) 的帧率限制。本项目的主要应用场景是优化《永劫无间》的游戏体验，实现快速切换限制帧率。
 
+## 下载
+
+[下载 rtsshotkey_0.1.0_x64-setup.exe](https://ghp.ci/https://github.com/hyskr/rtsshotkey/releases/download/v1.0.0/rtsshotkey_0.1.0_x64-setup.exe)
+
 ## 安装和使用
 
 1. 确保您已安装 RTSS (RivaTuner Statistics Server)
